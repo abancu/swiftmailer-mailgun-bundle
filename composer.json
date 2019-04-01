@@ -14,7 +14,7 @@
             "role" : "Developer"
         }
     ],
-    "minimum-stability" : "stable",
+    "minimum-stability" : "dev",
     "require": {
         "php": "^7.0",
         "swiftmailer/swiftmailer": "^6.0",
